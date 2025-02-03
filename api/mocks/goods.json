@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "Рождение Венеры",
+    "author":"Сандро Боттичелли",
+    "price": "1000000",
+    "oldPrice": "2000000",
+    "currency": "USD",
+    "preview": "db0eab48a6f2d11e9078fbb3d371082c",
+    "available":"1"
+  },
+  {
+    "id": "2",
+    "title": "Тайная вечеря",
+    "author": "Леонардо да Винчи",
+    "price": "3000000",
+    "currency": "USD",
+    "preview": "0aac165474911d5d44bf154381a23c80",
+    "available": "1"
+  },
+  {
+    "id": "3",
+    "title": "Сотворение Адама",
+    "author": "Микеланджело",
+    "price": "5000000",
+    "oldPrice": "6000000",
+    "currency": "USD",
+    "preview": "ab91452b4e8213fca3280a88a317496c",
+    "available": "1"
+  },
+  {
+    "id": "4",
+    "title": "Урок анатомии",
+    "author": "Рембрандт",
+    "price": "4000000",
+    "currency": "USD",
+    "preview": "1e889515a6516c3d8f8657bce639a5ec",
+    "available": "0"
+  }
+]
+
+

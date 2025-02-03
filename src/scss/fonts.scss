@@ -1,0 +1,44 @@
+.font {
+  &- {
+    &light {
+      font-family: "Merriweather", serif;
+      font-weight: 300;
+      font-style: normal;
+    }
+    &regular {
+      font-family: "Merriweather", serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+    &bold {
+      font-family: "Merriweather", serif;
+      font-weight: 700;
+      font-style: normal;
+    }
+    &black {
+      font-family: "Merriweather", serif;
+      font-weight: 900;
+      font-style: normal;
+    }
+    &light-italic {
+      font-family: "Merriweather", serif;
+      font-weight: 300;
+      font-style: italic;
+    }
+    &regular-italic {
+      font-family: "Merriweather", serif;
+      font-weight: 400;
+      font-style: italic;
+    }
+    &bold-italic {
+      font-family: "Merriweather", serif;
+      font-weight: 700;
+      font-style: italic;
+    }
+    &black-italic {
+      font-family: "Merriweather", serif;
+      font-weight: 900;
+      font-style: italic;
+    }
+  }
+}
