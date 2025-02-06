@@ -1,5 +1,11 @@
 # banki.shop
 
+## See Demo
+
+[Demo on Hosting](http://194.87.187.55:8080/)
+
+[Github Repository](https://github.com/DemixArtix/BankiShop)
+
 ## Project setup
 ```
 yarn install
